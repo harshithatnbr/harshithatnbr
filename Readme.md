@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshitha</h1>
 <h3 align="center">A passionate web developer looking for job opportunities</h3>
-<img align="right" src="https://github.com/harshithatnbr/harshithatnbr/assets/56475512/0ec2e85f-dd9a-49b4-96fe-5f90e29cfb00"/>
-
-
-
+<img align="right" src="https://github.com/harshithatnbr/harshithatnbr/assets/56475512/348f2ff7-e2a4-4034-8a42-1e38a8fa1e1b"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshithatnbr&label=Profile%20views&color=0e75b6&style=flat" alt="harshithatnbr" /> </p>
 
 - 🔭 I’m currently working on [Food Magic](https://github.com/harshithatnbr/Food-Magic)
