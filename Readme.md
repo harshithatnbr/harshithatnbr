@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshitha</h1>
 <h3 align="center">A passionate web developer looking for job opportunities</h3>
-![background](https://github.com/harshithatnbr/harshithatnbr/assets/56475512/0ec2e85f-dd9a-49b4-96fe-5f90e29cfb00)
+<img align="right" src="https://github.com/harshithatnbr/harshithatnbr/assets/56475512/0ec2e85f-dd9a-49b4-96fe-5f90e29cfb00"/>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshithatnbr&label=Profile%20views&color=0e75b6&style=flat" alt="harshithatnbr" /> </p>
