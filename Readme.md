@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Harshitha</h1>
+<h1 align="center">Hi 👋, I'm Harshitha😎 </h1>
 <h3 align="center">A passionate web developer looking for job opportunities</h3>
-<img align="right" src="https://github.com/harshithatnbr/harshithatnbr/assets/56475512/348f2ff7-e2a4-4034-8a42-1e38a8fa1e1b"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshithatnbr&label=Profile%20views&color=0e75b6&style=flat" alt="harshithatnbr" /> </p>
+<img align="right" width=400 src="https://github.com/harshithatnbr/harshithatnbr/assets/56475512/348f2ff7-e2a4-4034-8a42-1e38a8fa1e1b"/>
+
 
 - 🔭 I’m currently working on [Food Magic](https://github.com/harshithatnbr/Food-Magic)
 
