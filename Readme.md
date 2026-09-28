@@ -3,7 +3,7 @@
 <img align="right" width=400 src="https://github.com/harshithatnbr/harshithatnbr/assets/56475512/348f2ff7-e2a4-4034-8a42-1e38a8fa1e1b"/>
 
 
-- 🔭 I’m currently working on [Food Magic](https://github.com/harshithatnbr/Food-Magic)
+- 🔭 I’m currently working in Accenture as Backend Developer
 
 - 🌱 I’m currently learning **React.js**
 
